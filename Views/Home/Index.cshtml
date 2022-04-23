@@ -1,0 +1,55 @@
+﻿@{
+  ViewData["Title"] = "Brick in a Hand";
+}
+
+<!DOCTYPE html>
+<html lang="pt-pt">
+
+<head>
+  <link rel="stylesheet" href="~/css/site.css" />
+</head>
+
+<body>
+    <section class="parte1">
+        <div>
+        <a class="nav-link text-black" asp-area="" asp-controller="Home" asp-action="Index">LEGOS</a>
+        <a class="nav-link text-black" asp-area="" asp-controller="Home" asp-action="Action_Figures">ACTION FIGURES</a>
+        </div>  
+        <div id="divBusca" class="divBusca">
+            <input type="text" id="txtBusca" class="txtBusca"/>
+            <button id="btnBusca">Buscar</button>
+        </div>
+    </section>
+
+    <img src="/img/banner/Banner dia da mãe.jpg" class="imgBanner">
+
+    <section class="produtos1">        
+        <p>
+            <img src="~/img/legos/LEGO/LEGO Architecture/Lego-Arquitectura-Paris-300x300.jpg" alt="LEGO ARCHITECTURE Paris 21044"> <br>
+            LEGO ARCHITECTURE Paris 21044 <br>
+            54,99€ <br>
+            <button id="adcCarrinho">Adicionar ao carrinho</button> <br>
+        </p>
+
+        <p>
+            <img src="~/img/legos/LEGO/LEGO CITY/LEGO-CITY-Placas-de-Estrada-60304-cx-300x300.jpg" alt="LEGO CITY Placas de Estrada 60304"> <br>
+            LEGO CITY Placas de Estrada 60304 <br>
+            19,99€ <br>
+            <button id="adcCarrinho">Adicionar ao carrinho</button> <br>
+        </p>
+        <p>
+            <img src="~/img/legos/LEGO/LEGO DC/Lego-L76182-LEGO-DC-SUPER-HEROES-Capuz-do-Batman-76182-300x300.jpg" alt="LEGO DC SUPER HEROES Capuz do Batman 76182"> <br>
+            LEGO DC SUPER HEROES Capuz do Batman 76182 <br>
+            64,99€ <br>
+            <button id="adcCarrinho">Adicionar ao carrinho</button> <br>
+        </p>
+        <p>
+            <img src="~/img/legos/LEGO/LEGO Harry Potter/LEGO-HARRY-POTTER-Hogwarts-Sala-das-Necessidades-75966-b-300x300.jpg" alt="LEGO HARRY POTTER Hogwarts Sala das Necessidades 75966"> <br>
+            LEGO HARRY POTTER Hogwarts Sala das Necessidades 75966 <br>
+            19,99€ <br>
+            <button id="adcCarrinho">Adicionar ao carrinho</button>
+        </p>
+    </section>
+</body>
+
+</html>

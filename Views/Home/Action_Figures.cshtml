@@ -1,0 +1,55 @@
+@{
+  ViewData["Title"] = "Action Figures";
+}
+
+<!DOCTYPE html>
+<html lang="pt-pt">
+
+<head>
+   <link rel="stylesheet" href="~/css/site.css" />
+</head>
+
+<body>
+   <section class="parte1">
+        <div>
+        <a class="nav-link text-black" asp-area="" asp-controller="Home" asp-action="Index">LEGOS</a>
+        <a class="nav-link text-black" asp-area="" asp-controller="Home" asp-action="Action_Figures">ACTION FIGURES</a>
+        </div>  
+        <div id="divBusca" class="divBusca">
+            <input type="text" id="txtBusca" class="txtBusca"/>
+            <button id="btnBusca">Buscar</button>
+        </div>
+    </section>
+
+    <img src="/img/banner/Banner dia da mãe.jpg" class="imgBanner">
+
+    <section class="produtos1">
+    <p>
+        <img src="~/img/figuras_acao/Hasbro Figuras de acção/Avengers-Bend-Flex-Capitão-America-Hasbro-Marvel-E7377-5L00-A-300x300.jpg" alt="Avengers Bend & Flex Capitão América"> <br>
+        Avengers Bend & Flex Capitão América <br>
+        16,15€ <br>
+        <button id="adcCarrinho">Adicionar ao carrinho</button> <br>
+    </p>
+
+    <p>
+        <img src="~/img/figuras_acao/Hasbro Figuras de acção/121938-Spider-Man-Integrated-Suit-Figure-Vehicle-Hasbro-F11105L00-300x300.jpg" alt="Super Hero Avengers Figure & Motorcycle"> <br>
+        Super Hero Avengers Figure & Motorcycle <br>
+        17,50€ <br>
+        <button id="adcCarrinho">Adicionar ao carrinho</button> <br>
+    </p>
+    <p>
+        <img src="~/img/figuras_acao/Hasbro Figuras de acção/Marvel-Miles-Morales-Titan-Hero-Series-Spider-Man-Hasbro-E8523-a-300x300.jpg" alt="AVN Titan Hero Black Panther"> <br>
+        AVN Titan Hero Black Panther <br>
+        31,50€ <br>
+        <button id="adcCarrinho">Adicionar ao carrinho</button> <br>
+    </p>
+    <p>
+        <img src="~/img/figuras_acao/Hasbro Figuras de acção/Marvel-Ghost-Spider-Titan-Hero-Series-Hasbro-E8526-a-300x300.jpg" alt="Marvel Black Widow Titan Hero Series"> <br>
+        Marvel Black Widow Titan Hero Series <br>
+        19,99€ <br>
+        <button id="adcCarrinho">Adicionar ao carrinho</button>
+    </p>
+    </section>
+</body>
+
+</html>

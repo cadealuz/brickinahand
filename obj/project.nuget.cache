@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ela6wKC73DegBS5kBp2Ip6isyvhpPAGlOYWm/gmaSrSfiB0LojPoEAmKN3NPtfxjFoiA1BGYGiQcb0n9a8R6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cadea\\Desktop\\Senac\\Projeto Integrador\\Atv 05 - Gleisson Trindade\\Brick in a Hand\\Brick in a Hand.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cadea\\.nuget\\packages\\mysqlconnector\\2.1.0\\mysqlconnector.2.1.0.nupkg.sha512",
+    "C:\\Users\\cadea\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

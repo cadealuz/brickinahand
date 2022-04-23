@@ -1,0 +1,22 @@
+@model Usuario
+@{
+    ViewData["Title"] = "Login";
+}
+<div class="row justify-content-md-center">
+        <div class="jumbotron col-6">
+            <h1>Iniciar Sessão</h1>
+            <form asp-action="Login" method="POST">
+                <div class="form-group">
+                    <input type="text" placeholder="Email" class="form-control" name="Email" />
+                </div>
+                <div class="form-group">
+                    <input type="password" placeholder="Senha" class="form-control" name="Senha"/>
+                </div>
+                <input type="submit" class="btn btn-primary btn-lg" value="Entrar" />
+            </form>
+            <p class="text-danger">@ViewData["Erro"]</p>
+        </div>
+    </div>
+<p>
+    @ViewBag.Mensagem
+</p>

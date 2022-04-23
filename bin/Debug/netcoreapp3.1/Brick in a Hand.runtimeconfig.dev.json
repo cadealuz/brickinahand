@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\cadea\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\cadea\\.nuget\\packages"
+    ]
+  }
+}

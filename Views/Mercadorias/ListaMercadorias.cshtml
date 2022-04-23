@@ -1,0 +1,34 @@
+@model List<Mercadorias>
+@{
+    ViewData["Title"] = "Produtos Registrados";
+}
+
+<h2>Produtos Registrados</h2>
+
+<table class="table">
+    <tr>
+        <th>Id</th>
+        <th>Nome</th>
+        <th>Referência</th>
+        <th>Preço</th>
+        <th>Tipo</th>
+        <th>Descrição</th>
+        <th>Operações</th>
+    </tr>
+
+    @foreach (Mercadorias proc in Model)
+    {
+        <tr>
+            <td>@proc.Id</td>
+            <td>@proc.Nome</td>
+            <td>@proc.Referencia</td>
+            <td>@proc.Preco</td>
+            <td>@proc.Tipo</td>
+            <td>@proc.Descricao</td>
+            <td>
+                <a href="/Mercadorias/EditarMercadorias?Id=@proc.Id"> Alterar</a> /
+                <a href="/Mercadorias/RemoverMercadorias?id=@proc.Id"> Excluir</a>
+            </td>
+        </tr>
+    }
+</table>

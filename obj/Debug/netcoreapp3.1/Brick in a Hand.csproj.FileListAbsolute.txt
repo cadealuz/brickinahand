@@ -1,0 +1,151 @@
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\Brick in a Hand.exe
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\Brick in a Hand.deps.json
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\Brick in a Hand.runtimeconfig.json
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\Brick in a Hand.runtimeconfig.dev.json
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\Brick in a Hand.dll
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\Brick in a Hand.pdb
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\Brick in a Hand.Views.dll
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\Brick in a Hand.Views.pdb
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.csprojAssemblyReference.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.AssemblyInfoInputs.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.AssemblyInfo.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.csproj.CoreCompileInputs.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.RazorAssemblyInfo.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.RazorAssemblyInfo.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.TagHelpers.input.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.TagHelpers.output.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.RazorCoreGenerate.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.RazorTargetAssemblyInfo.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.RazorTargetAssemblyInfo.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.Views.pdb
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\staticwebassets\Brick in a Hand.StaticWebAssets.Manifest.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\staticwebassets\Brick in a Hand.StaticWebAssets.xml
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.dll
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.pdb
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.genruntimeconfig.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.csproj.CopyComplete
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Home\carrinho.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Home\informacoes.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Home\minha_conta.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Home\sobre_nos.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\package.json
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Home\Log_in.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Home\Action_Figures.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cadastro.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 03 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Home\Listagem.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\package.json
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\Brick in a Hand.exe
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\Brick in a Hand.deps.json
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\Brick in a Hand.runtimeconfig.json
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\Brick in a Hand.runtimeconfig.dev.json
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\Brick in a Hand.dll
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\Brick in a Hand.pdb
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\Brick in a Hand.Views.dll
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\Brick in a Hand.Views.pdb
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.csprojAssemblyReference.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.AssemblyInfoInputs.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.AssemblyInfo.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.csproj.CoreCompileInputs.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.RazorAssemblyInfo.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.RazorAssemblyInfo.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.TagHelpers.input.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.TagHelpers.output.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.RazorCoreGenerate.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Home\Action_Figures.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Home\Informacoes.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sobre_Nos.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.RazorTargetAssemblyInfo.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.RazorTargetAssemblyInfo.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.Views.pdb
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\staticwebassets\Brick in a Hand.StaticWebAssets.Manifest.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\staticwebassets\Brick in a Hand.StaticWebAssets.xml
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.dll
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.pdb
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.genruntimeconfig.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.csproj.CopyComplete
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Mercadorias\CadastroMercadorias.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Mercadorias\Carrinho.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Mercadorias\EditarMercadorias.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Mercadorias\ListaMercadorias.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Editar.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Lista.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 04 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\package.json
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\Brick in a Hand.exe
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\Brick in a Hand.deps.json
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\Brick in a Hand.runtimeconfig.json
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\Brick in a Hand.runtimeconfig.dev.json
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\Brick in a Hand.dll
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\Brick in a Hand.pdb
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\Brick in a Hand.Views.dll
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\Brick in a Hand.Views.pdb
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.csprojAssemblyReference.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.AssemblyInfoInputs.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.AssemblyInfo.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.csproj.CoreCompileInputs.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.RazorAssemblyInfo.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.RazorAssemblyInfo.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.TagHelpers.input.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.TagHelpers.output.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.RazorCoreGenerate.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Home\Action_Figures.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Home\Informacoes.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sobre_Nos.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Mercadorias\CadastroMercadorias.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Mercadorias\Carrinho.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Mercadorias\EditarMercadorias.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Mercadorias\ListaMercadorias.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Editar.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Lista.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.RazorTargetAssemblyInfo.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.RazorTargetAssemblyInfo.cs
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.Views.pdb
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.csproj.CopyComplete
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\staticwebassets\Brick in a Hand.StaticWebAssets.Manifest.cache
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\staticwebassets\Brick in a Hand.StaticWebAssets.xml
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.dll
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.pdb
+C:\Users\cadea\Desktop\Senac\Projeto Integrador\Atv 05 - Gleisson Trindade\Brick in a Hand\obj\Debug\netcoreapp3.1\Brick in a Hand.genruntimeconfig.cache

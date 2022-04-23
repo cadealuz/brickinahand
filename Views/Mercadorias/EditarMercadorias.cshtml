@@ -1,0 +1,45 @@
+@model Mercadorias
+@{
+    ViewData["Title"] = "Editar Mercadorias";
+}
+
+<h2>Editar Mercadorias</h2>
+
+<form method="POST" asp-action="EditarMercadorias">
+    <input type="hidden" asp-for="Id">
+
+    <p>
+        <label asp-for="Nome">Nome: </label>
+        <input type="text" asp-for="Nome" required>
+    </p>
+
+    <p>
+        <label asp-for="Referencia">Referência: </label>
+        <input type="text" asp-for="Referencia" required>
+    </p>
+
+    <p>
+        <label asp-for="Preco">Preço: </label>
+        <input type="text" asp-for="Preco" required>
+    </p>
+
+    <p>
+        <label asp-for="Tipo">Tipo: </label>
+        <select asp-for="Tipo">
+            <option value="None"></option>
+            <option value="Lego">Lego</option>
+            <option value="Action Figures">Action Figures</option>
+        </select>
+    </p>
+
+    <p>
+        <label asp-for="Descricao">Descrição do Produto: </label>
+        <input type="text" asp-for="Descricao" required>
+    </p>
+
+    <input type="submit" value="Enviar">
+</form>
+
+<p>
+    @ViewBag.Mensagem
+</p>

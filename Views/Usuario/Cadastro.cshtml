@@ -1,0 +1,26 @@
+@model Usuario
+@{
+    ViewData["Title"]="Cadastro";
+}
+<div class="row justify-content-md-center">
+        <div class="jumbotron col-6">
+            <h1>Bem vindo ao <br> Brick in a hand</h1>
+            <form asp-action="Cadastro" method="POST">
+                <div class="form-group">
+                    <input type="text" placeholder="Nome" class="form-control" name="Nome" required/>
+                </div>
+                <div class="form-group">
+                    <input type="text" placeholder="Email" class="form-control" name="Email" required/>
+                </div>
+                <div class="form-group">
+                    <input type="password" placeholder="Senha" class="form-control" name="Senha" required/>
+                </div>
+                <input type="submit" class="btn btn-primary btn-lg" value="Enviar" />
+            </form>
+            <p class="text-danger">@ViewData["Erro"]</p>
+        </div>
+    </div>   
+
+<p>
+    @ViewBag.Mensagem
+</p>
